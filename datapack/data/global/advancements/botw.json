@@ -1,18 +1,18 @@
 {
-  "display": {
-    "title": "BOTW Additions",
-    "description": "It is up to you, Link.",
-    "icon": {
-      "item": "minecraft:barrier",
-      "nbt": "{CustomModelData:4060002}"
+    "display": {
+        "title": "BOTW Additions",
+        "description": "\"You are the light. OUR light...\" - Zelda",
+        "icon": {
+            "item": "minecraft:barrier",
+			"nbt": "{CustomModelData:400002}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
     },
-    "announce_to_chat": false,
-    "show_toast": false
-  },
-  "parent": "global:rag",
-  "criteria": {
-    "trigger": {
-      "trigger": "minecraft:tick"
+    "parent": "global:rag",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
     }
-  }
 }
