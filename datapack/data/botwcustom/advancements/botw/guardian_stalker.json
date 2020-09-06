@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:netherite_sword"
+        },
+        "title": "Stalker No Stalking",
+        "description": "Kill a Guardian Stalker."
+    },
+    "parent": "botwcustom:botw/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

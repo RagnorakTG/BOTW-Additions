@@ -1,0 +1,25 @@
+{
+	"parent": "block/command_block", 
+	"textures": {
+		"layer0": "item/command_block"
+	},
+	"overrides": [		{
+			"predicate": {
+				"custom_model_data": 4061001
+			},
+			"model": "botw/entity/guardian/guardian_stalker_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4061002
+			},
+			"model": "botw/entity/guardian/guardian_stalker_head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4061003
+			},
+			"model": "botw/entity/guardian/guardian_stalker_leg"
+		}
+	]
+}

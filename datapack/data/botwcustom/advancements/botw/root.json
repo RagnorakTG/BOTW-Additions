@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "title": "BOTW Additions",
+        "description": "Install the BOTW Additions datapack",
+        "background": "minecraft:textures/botw/block/guardian_block.png"
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
