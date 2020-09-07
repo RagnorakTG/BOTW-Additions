@@ -5,21 +5,129 @@
 	},
 	"overrides": [		{
 			"predicate": {
-				"custom_model_data": 4061001
+				"custom_model_data": 409001
 			},
-			"model": "botw/entity/guardian/guardian_stalker_body"
+			"model": "botw:entity/guardian/stalker/generic/guardian_stalker_body"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 4061002
+				"custom_model_data": 409002
 			},
-			"model": "botw/entity/guardian/guardian_stalker_head"
+			"model": "botw:entity/guardian/stalker/generic/guardian_stalker_head"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 4061003
+				"custom_model_data": 409003
 			},
-			"model": "botw/entity/guardian/guardian_stalker_leg"
+			"model": "botw:entity/guardian/stalker/generic/guardian_stalker_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409004
+			},
+			"model": "botw:entity/guardian/stalker/rusted/rusted_stalker_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409005
+			},
+			"model": "botw:entity/guardian/stalker/rusted/rusted_stalker_head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409006
+			},
+			"model": "botw:entity/guardian/stalker/rusted/rusted_stalker_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409007
+			},
+			"model": "botw:entity/guardian/stalker/husk/guardian_body_variant_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409008
+			},
+			"model": "botw:entity/guardian/stalker/husk/guardian_body_variant_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409009
+			},
+			"model": "botw:entity/guardian/stalker/husk/guardian_body_variant_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409010
+			},
+			"model": "botw:entity/guardian/stalker/husk/guardian_head_variant_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409011
+			},
+			"model": "botw:entity/guardian/stalker/husk/guardian_head_variant_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409012
+			},
+			"model": "botw:entity/guardian/stalker/husk/guardian_head_variant_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409013
+			},
+			"model": "botw:entity/guardian/stalker/husk/guardian_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409014
+			},
+			"model": "botw:entity/chuchu/generic_chuchu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409015
+			},
+			"model": "botw:entity/chuchu/fire_chuchu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409016
+			},
+			"model": "botw:entity/chuchu/electric_chuchu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409017
+			},
+			"model": "botw:entity/chuchu/icy_chuchu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409018
+			},
+			"model": "botw:entity/chuchu/large_generic_chuchu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409019
+			},
+			"model": "botw:entity/chuchu/large_fire_chuchu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409020
+			},
+			"model": "botw:entity/chuchu/large_electric_chuchu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409021
+			},
+			"model": "botw:entity/chuchu/large_icy_chuchu"
 		}
 	]
 }

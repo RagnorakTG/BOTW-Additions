@@ -5,15 +5,15 @@
 	},
 	"overrides": [		{
 			"predicate": {
-				"custom_model_data": 4060001
+				"custom_model_data": 400001
 			},
-			"model": "botw/item/blank"
+			"model": "botw:item/blank"
 		},
 		{
 			"predicate": {
-				"custom_model_data": 4060002
+				"custom_model_data": 400002
 			},
-			"model": "botw/item/check_mark"
+			"model": "botw:item/check_mark"
 		}
 	]
 }

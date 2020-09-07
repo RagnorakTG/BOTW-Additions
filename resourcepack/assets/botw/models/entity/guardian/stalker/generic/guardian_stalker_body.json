@@ -1,7 +1,7 @@
 {
 	"texture_size": [256, 256],
 	"textures": {
-		"2": "botw/entity/guardian/guardian_stalker_body"
+		"2": "botw:entity/guardian/stalker/generic/guardian_stalker_body"
 	},
 	"elements": [
 		{
